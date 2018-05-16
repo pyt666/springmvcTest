@@ -15,7 +15,7 @@
 <body class="login_bg">
     <section class="loginBox">
         <header class="loginHeader">
-            <h1>超市订单管理系统test</h1>
+            <h1>超市订单管理系统</h1>
         </header>
         <section class="loginCont">
 	        <form class="loginForm" action="${pageContext.request.contextPath }/login"  name="actionForm" id="actionForm"  method="post" >
@@ -33,6 +33,8 @@
                     <input type="submit" value="登录"/>
                     <input type="reset" value="重置"/>
                 </div>	
+                <div>
+                </div>
 			</form>
         </section>
     </section>

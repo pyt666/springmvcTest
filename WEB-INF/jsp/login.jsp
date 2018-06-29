@@ -33,6 +33,9 @@
                     <input type="submit" value="登录"/>
                     <input type="reset" value="重置"/>
                 </div>	
+                <div>
+                		<input type="button" value="提交"/>
+                </div>
                
 			</form>
         </section>
